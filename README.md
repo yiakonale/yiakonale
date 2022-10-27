@@ -1,16 +1,13 @@
-### Hi there 👋
+## :wave: Welcome to my project repository!
 
-<!--
-**yiakonale/yiakonale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓My name is Ioannis. I'm currently an undergraduate student pursuing a bachelor's in electrical engineering. I've been into electronics and science for some time and since high school I've been doing various projects as a hobby. This repository is a place to document my attempts at trying new stuff, and sometimes, completed projects.
 
-Here are some ideas to get you started:
+⚡My main interests are:
+- high voltage circuits
+- power electronics
+- IoT and embedded systems
+- new and emerging technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀You will find primarily projects in those categories and some extra stuff sprinkled in between.
+
+📫Feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/ipapaspyridis/) or by [email](mailto:yiakonale03@gmail.com)
