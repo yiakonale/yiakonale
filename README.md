@@ -6,7 +6,6 @@
 - high voltage circuits
 - power electronics
 - IoT and embedded systems
-- new and emerging technology
 
 🚀You will primarily find projects that belong to those categories as well as some extra stuff sprinkled in between.
 
