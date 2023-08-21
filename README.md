@@ -9,7 +9,7 @@
 
 🚀You will primarily find projects that belong to those categories as well as some extra stuff sprinkled in between.
 
-* Currently working on: `High-speed photography unit`
-* Currently learning: `LaTeX`
+* Currently __working__ on: `High-speed photography unit`
+* Currently __learning__: `LaTeX`
 
 📫Feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/ipapaspyridis/) or by [email](mailto:yiakonale03@gmail.com)
